@@ -1,8 +1,9 @@
 # Quran Tab Landing Page
 
-## [🌟Live Link🌟](images/quran-book.jpg)
+## [🌟Live Link🌟]()
 
-![Quran Tab Landing Page](images/quran-book.jpg)
+![Quran Tab Landing Page](![Uploading screen-1.png…]()
+)
 
 ## Description
 Quran Tab is a Chrome extension that replaces your new tab with a random ayah from the Quran. It aims to keep users inspired by presenting a verse from the Quran every time they open a new tab. This landing page provides information about the extension, its features, and how to download it.
