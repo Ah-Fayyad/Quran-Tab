@@ -1,6 +1,6 @@
 # Quran Tab Landing Page
 
-## [🌟Live Link🌟](https://quran-tab-landing-page.netlify.app)
+## [🌟Live Link🌟](images/quran-book.jpg)
 
 ![Quran Tab Landing Page](images/quran-book.jpg)
 
