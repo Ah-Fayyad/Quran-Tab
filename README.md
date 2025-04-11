@@ -2,7 +2,7 @@
 
 ## [🌟Live Link🌟]()
 
-![Quran Tab Landing Page](![Uploading screen-1.png…]()
+![Quran Tab Landing Page]
 )
 
 ## Description
