@@ -21,10 +21,6 @@ This project involved the application of various skills, including:
 ![Quran Tab Landing Page](images/screen-2.png)
 ![Quran Tab Landing Page](images/screen-3.png)
 
-## How to Use
-1. Clone the repository: `git clone https://github.com/MMansy19/quran-tab-landing-page.git`
-2. Open the `index.html` file in a web browser to view the landing page.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
