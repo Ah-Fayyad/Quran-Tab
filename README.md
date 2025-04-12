@@ -1,4 +1,4 @@
-# Quran Tab Landing Page
+# Quran Tab
 
 ## [🌟Live Link🌟]()
 
