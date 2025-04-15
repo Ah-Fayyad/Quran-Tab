@@ -1,15 +1,16 @@
 # Quran Tab
 
-## [🌟Live Link🌟]()
+## [🌟Live Link🌟](https://ah-fayyad.github.io/Quran-Tab/)
 
-![Quran Tab Landing Page]
-)
+![ Quran Tab Landing Page ]
+
 
 ## Description
 Quran Tab is a Chrome extension that replaces your new tab with a random ayah from the Quran. It aims to keep users inspired by presenting a verse from the Quran every time they open a new tab. This landing page provides information about the extension, its features, and how to download it.
 
 ## Skills Learned
 This project involved the application of various skills, including:
+
 - **HTML:** Used to structure the content and create the layout of the landing page.
 - **CSS:** Implemented for styling, layout enhancements, and design consistency.
 - **SASS:** Utilized to streamline and enhance the CSS styling process.
